@@ -1,3 +1,5 @@
 # Demo-First
-This is my first repo
-author - JASKIRAT
+Author - JASKIRAT
+<br>
+This is my first repository.
+
